@@ -51,6 +51,7 @@ namespace Vanderbilt.Biostatistics.Wfccm2
                 new NaturalLog(60),
                 new Sign(60),
                 new Now(60),
+                new UtcNow(60),
                 new Days(60),
                 new Hours(60),
                 new Minutes(60),
